@@ -75,18 +75,7 @@
         <div id="content_main">
             <!-- INICIO DE LA PARTE EDITABLE -->
 
-            <div id="contenido" style="text-align: justify;" >
-              <div id="title" ></div>
-              <div style="font-size:16px; margin-left:30px; margin:50px;">
-                <p>
-              Bienvenido al módulo de Administración del Sistema Generador de Estimaciones.
-              </p>
-              <p>
-                A la izquierda, encontrar un menú de los módulos que podrá administrar.
-                </p>
 
-              </div>
-            </div>
 
             <!-- FIN DE LA PARTE EDITABLE -->
         </div>
